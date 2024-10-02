@@ -100,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cấu trúc dataset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cấu trúc dataset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cấu trúc dataset.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -162,10 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ef2bf1daf6990f1",
+  "active": "93de89b0cabac363",
   "lastOpenFiles": [
-    "Giới thiệu dataset.md",
+    "Untitled.md",
     "Cấu trúc dataset.md",
+    "Giới thiệu dataset.md",
     "image/Pasted image 20240924215202.png",
     "Common source Resistive load.md",
     "image/{40F30FE6-D5EC-493F-9597-F2CD65D194BC}.png",
@@ -203,7 +202,6 @@
     "NCKH/Bảo mật trong tầng 2.md",
     "Ethical Hacking/M13 - Hacking Web Server/DNS server hijacking.md",
     "Ethical Hacking/M13 - Hacking Web Server/DNS amplification attack.md",
-    "Ethical Hacking/M13 - Hacking Web Server/web server attack.md",
     "M14  - Hacking Web Applications",
     "Ethical Hacking/M13 - Hacking Web Server",
     "Ethical Hacking/M12 - Evading, IDS, Firewall",
