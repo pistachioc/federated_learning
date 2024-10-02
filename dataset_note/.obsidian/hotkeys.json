@@ -1,0 +1,41 @@
+{
+  "supsub:wrap-sup": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ],
+  "supsub:wrap-sub": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "="
+    }
+  ],
+  "editor:insert-horizontal-rule": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "language-translator:language-translator-editor-command": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "R"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ]
+}
