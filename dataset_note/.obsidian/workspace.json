@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "1419c3a105909b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ton_Network_dataset.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ef2bf1daf6990f1",
             "type": "leaf",
             "state": {
@@ -100,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ton_Network_dataset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ton_Network_dataset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Ton_Network_dataset.md"
               }
             }
           }
@@ -160,9 +175,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93de89b0cabac363",
+  "active": "1419c3a105909b85",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Description_stats_datasets/Description_stats_Windows_dataset/Windows Features.xlsx",
+    "Description_stats_datasets/Description_stats_Windows_dataset/Windows 7 Features.pdf",
+    "Description_stats_datasets/Description_stats_Windows_dataset/Windows 7 Features.docx",
+    "Description_stats_datasets/Description_stats_Windows_dataset/Windows 10 Features.pdf",
+    "Description_stats_datasets/Description_stats_Windows_dataset/Windows 10 Features.docx",
+    "Description_stats_datasets/Description_stats_Windows_dataset/Statistics of Windows Records.xlsx",
+    "Description_stats_datasets/Description_stats_Windows_dataset/Statistics of Windows Records.pdf",
+    "Description_stats_datasets/Description_stats_Windows_dataset/Statistics of Windows Records.docx",
+    "Description_stats_datasets/Description_stats_Windows_dataset",
+    "Description_stats_datasets/Description_stats_Network_dataset/Statistics of Network Records.xlsx",
+    "Description_stats_datasets/Description_stats_Network_dataset/Statistics of Network Records.pdf",
+    "img/proposed dynamic architecture.png",
+    "Ton_Network_dataset.md",
     "Cấu trúc dataset.md",
     "Giới thiệu dataset.md",
     "image/Pasted image 20240924215202.png",
@@ -176,17 +203,12 @@
     "image/{D09DEFB8-D572-48FC-A768-AF662E5599C5}.png",
     "image/{0EC711E6-A32E-4BF7-831B-3E17638EFF7E}.png",
     "image/{FF9CE310-78B5-4D35-87F4-BA44BB55F400}.png",
-    "image",
     "image/Pasted image 20240922164934.png",
     "Cơ sở lý luận.md",
     "Cơ sở hình thành TTHCM.md",
     "Cơ sở thực tiễn.md",
     "Cơ sở khách quan.md",
-    "Img/{05B4524B-F9F3-442E-9938-3C78BD4D0E75}.png",
-    "Img",
     "Chương 1/Ý nghĩa môn học.md",
-    "Chương 1",
-    "Chương 2",
     "Chương 1/Khái niệm Tư tưởng HCM.md",
     "Chương 1/Khái quát quá trình nhận thức của Đảng về TTHCM.md",
     "Chương 1/Đối tượng nghiên cứu TTHCM.md",
@@ -200,13 +222,6 @@
     "Ethical Hacking/M10 Denial of Service/smurf attack.md",
     "NCKH/MAC flooding and MAC spoofing.md",
     "NCKH/Bảo mật trong tầng 2.md",
-    "Ethical Hacking/M13 - Hacking Web Server/DNS server hijacking.md",
-    "Ethical Hacking/M13 - Hacking Web Server/DNS amplification attack.md",
-    "M14  - Hacking Web Applications",
-    "Ethical Hacking/M13 - Hacking Web Server",
-    "Ethical Hacking/M12 - Evading, IDS, Firewall",
-    "Ethical Hacking/M11 Session Hijacking",
-    "Ethical Hacking/M10 Denial of Service",
-    "Ethical Hacking/M6 System hacking"
+    "Ethical Hacking/M13 - Hacking Web Server/DNS server hijacking.md"
   ]
 }
