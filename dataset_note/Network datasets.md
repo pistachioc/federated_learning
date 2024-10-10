@@ -6,4 +6,4 @@
 - SecurityEvents_GroundTruth_datasets/Security Events_Network_datasets = ground truth tables used for labeling
 	- The IP addresses of the offensive systems and their timestamps were logged to accurately label records
 - Train_Test_datasets/Train_Test_Network_dataset = a **csv** includes a subset of the entire attack types and normal records. *suggested to be used for evaluating new AI-based cy bersecurity solutions*
-- Description_stats_datasets/Description_stats_Network_dataset = data feature descriptions + number of recorded included
+- Description_stats_datasets/Description_stats_Network_dataset = *data feature descriptions* + number of recorded included

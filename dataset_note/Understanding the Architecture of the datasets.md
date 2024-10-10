@@ -45,7 +45,7 @@
 	- Same as Metasploitable 3
 - Offensive sys:
 	- Kali linux VMs (10 VMs) 
-	- Scripts of hacking scenarios (scanning, backdoor, ransomware, DoS, DDoS, MITM, data injection, XSS, password violations)
+	- Scripts of hacking scenarios (scanning, backdoor, ransomware, DoS, DDoS, MITM, data injection, XSS, password violations) [Nine attack scenarios](/dataset_note/Nine%20attack%20scenarios.md)
 - Data management: logger tools for raw and filtered data from OSs, #Iot-IIot , network
 	- Window: Microsoft Data Collector Sets to store processes, CPUs, mems, hard disk
 	- Linux: atop (same as Window)
