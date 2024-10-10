@@ -1,5 +1,5 @@
 ### 1. Raw datasets
-- IOT/IIOT data ghi bằng file **log** và **csv** mà các sensor như thời tiết thu thập dữ liệu từ xa
+- #Iot-IIot data ghi bằng file **log** và **csv** mà các sensor như thời tiết thu thập dữ liệu từ xa
 - Network data ở dạng file **pcap** (packet capture), **log**, và **csv** qua công cụ *ZEEK*
 - Linux data cho việc logging desk, process, processor, memory và network activities ở dang **txt** và **csv** sử dụng lệnh *atop* (tracing tool)
 - Win data ở dạng **blg** thu thập như linux rồi mở trong file **csv** sử dụng *Performance Monitor Tool on Windows 7 and 10*

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understanding the Architecture of the datasets.md",
+                "file": "TON_Network_dataset/Understanding the Architecture of the datasets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nine attack scenarios.md",
+                "file": "TON_Network_dataset/Nine attack scenarios.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network datasets features.md",
+                "file": "TON_Network_dataset/Giới thiệu Network datasets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network datasets features.md",
+                "file": "TON_Network_dataset/Giới thiệu Network datasets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network datasets features.md",
+                "file": "TON_Network_dataset/Giới thiệu Network datasets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network datasets features.md"
+                "file": "TON_Network_dataset/Giới thiệu Network datasets.md"
               }
             }
           }
@@ -175,14 +175,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "882cf65a75165385",
+  "active": "93de89b0cabac363",
   "lastOpenFiles": [
-    "Network datasets.md",
-    "Understanding the Architecture of the datasets.md",
-    "Network datasets features.md",
-    "Nine attack scenarios.md",
-    "Giới thiệu dataset.md",
-    "Cấu trúc dataset.md",
+    "papers/09444348.pdf",
+    "papers/09444348.pdf.crdownload",
+    "TON_Network_dataset/Cấu trúc Network datasets.md",
+    "TON_Network_dataset/Giới thiệu Network datasets.md",
+    "TON_Network_dataset/Understanding the Architecture of the datasets.md",
+    "TON_Network_dataset",
+    "TON_Network_dataset/Network datasets features.md",
+    "TON_Network_dataset/Network datasets.md",
+    "TON_Network_dataset/Nine attack scenarios.md",
     "Benign and Attack Scenarios and Agents.md",
     "img/Configured Testbed of TON_IoT datasets.png",
     "dataset_note/papers/TON_Network_dataset.pdf.md",
@@ -194,8 +197,6 @@
     "Description_stats_datasets/Description_stats_Windows_dataset/Windows 10 Features.pdf",
     "Description_stats_datasets/Description_stats_Windows_dataset/Windows 10 Features.docx",
     "Description_stats_datasets/Description_stats_Windows_dataset/Statistics of Windows Records.xlsx",
-    "Description_stats_datasets/Description_stats_Windows_dataset/Statistics of Windows Records.pdf",
-    "Description_stats_datasets/Description_stats_Windows_dataset/Statistics of Windows Records.docx",
     "img/proposed dynamic architecture.png",
     "image/Pasted image 20240924215202.png",
     "Common source Resistive load.md",
@@ -221,7 +222,6 @@
     "Ethical Hacking/M11 Session Hijacking/predict session token.md",
     "Ethical Hacking/M11 Session Hijacking/session hijacking def.md",
     "Ethical Hacking/M10 Denial of Service/DDoS tools.md",
-    "Ethical Hacking/M10 Denial of Service/HTTP GET_POST attack.md",
-    "Ethical Hacking/M10 Denial of Service/ping of death.md"
+    "Ethical Hacking/M10 Denial of Service/HTTP GET_POST attack.md"
   ]
 }
