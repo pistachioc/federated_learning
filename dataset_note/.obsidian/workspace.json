@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64226ab133b9b5f8",
+        "id": "f198fa553a7e3023",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b9d20991c95bd9",
+            "id": "f48359a207d0fd71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TON_Network_dataset/Network datasets features.md",
+                "file": "To-do list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TON_Network_dataset/Network datasets features.md",
+                "file": "To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TON_Network_dataset/Network datasets features.md",
+                "file": "To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TON_Network_dataset/Network datasets features.md"
+                "file": "To-do list.md"
               }
             }
           }
@@ -148,30 +148,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6b9d20991c95bd9",
+  "active": "f48359a207d0fd71",
   "lastOpenFiles": [
-    "Why Heterogeneity is important for Iot network.md",
-    "Statistical Descriptive Observations.md",
-    "TON_Network_dataset/Network datasets features.md",
-    "Measuring Iot data.md",
-    "Role of Heterogeneity",
+    "09444348/09444348.pdf",
+    "TON_IoT Telemetry Dataset/TON_IoT Telemetry Dataset.pdf",
+    "TON_IoT Telemetry Dataset/IoT_IIoT datasets.md",
+    "TON_IoT Telemetry Dataset/09189760.pdf",
+    "TON_IoT Telemetry Dataset",
+    "papers/09189760.pdf",
+    "papers",
+    "New folder",
+    "To-do list.md",
+    "09444348",
     "TON_Network_dataset/Giới thiệu Network datasets.md",
-    "papers/09444348.pdf",
-    "papers/09444348.pdf.crdownload",
     "TON_Network_dataset/Cấu trúc Network datasets.md",
+    "dataset_note/Cấu trúc dataset.md",
+    "dataset_note",
+    "09189760/IoT_IIoT datasets.md",
+    "dataset_note/09189760/09189760.pdf.md",
+    "09189760/09189760.pdf",
+    "dataset_note/09189760",
+    "dataset_note/09444348.pdf.md",
     "TON_Network_dataset/Understanding the Architecture of the datasets.md",
-    "TON_Network_dataset",
     "TON_Network_dataset/Network datasets.md",
     "TON_Network_dataset/Nine attack scenarios.md",
+    "TON_Network_dataset/Network datasets features.md",
+    "Why Heterogeneity is important for Iot network.md",
+    "Statistical Descriptive Observations.md",
+    "Measuring Iot data.md",
     "Benign and Attack Scenarios and Agents.md",
     "img/Configured Testbed of TON_IoT datasets.png",
     "dataset_note/papers/TON_Network_dataset.pdf.md",
-    "dataset_note/papers",
-    "dataset_note",
-    "Description_stats_datasets/Description_stats_Windows_dataset/Windows Features.xlsx",
-    "Description_stats_datasets/Description_stats_Windows_dataset/Windows 7 Features.pdf",
-    "Description_stats_datasets/Description_stats_Windows_dataset/Windows 7 Features.docx",
-    "Description_stats_datasets/Description_stats_Windows_dataset/Windows 10 Features.pdf",
     "img/proposed dynamic architecture.png",
     "image/Pasted image 20240924215202.png",
     "Common source Resistive load.md",
@@ -188,13 +195,6 @@
     "Cơ sở hình thành TTHCM.md",
     "Cơ sở thực tiễn.md",
     "Cơ sở khách quan.md",
-    "Chương 1/Ý nghĩa môn học.md",
-    "Chương 1/Khái niệm Tư tưởng HCM.md",
-    "Chương 1/Khái quát quá trình nhận thức của Đảng về TTHCM.md",
-    "Chương 1/Đối tượng nghiên cứu TTHCM.md",
-    "Chương 1/Phương pháp nghiên cứu.md",
-    "Ethical Hacking/M11 Session Hijacking/session hacking tools.md",
-    "Ethical Hacking/M11 Session Hijacking/predict session token.md",
-    "Ethical Hacking/M11 Session Hijacking/session hijacking def.md"
+    "Chương 1/Ý nghĩa môn học.md"
   ]
 }

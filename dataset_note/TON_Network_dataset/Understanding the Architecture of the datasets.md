@@ -37,7 +37,7 @@
 ![Configured Testbed of TON_IoT datasets](<img/Configured Testbed of TON_IoT datasets.png>)
 ### Fog nodes
 - Orchestrated server: stimlate real production networks (DNS, FTP, HTTP,…) to generate various legitimate packets
-- Middleware server: implementing #Iot-IIot  services linked them with the cloud layer to subcribe and pblish telemetry data
+- Middleware server: implementing #Iot-IIot  services linked them with the cloud layer to subcribe and publish telemetry data through #Node-RED
 - Client Systems:
 	- Two windows OSs used as remote web interface of the node-red and their traffic audit traces were logged
 	- DVWA (damn vulnerable web app) used to make securtiy vulnerabilities using offensive systems

@@ -5,32 +5,33 @@
 - Contains infos about flow indentifiers - sour, des IPs, ports, protocol types, … 
 Table1: Connection Features
 
-| ID  | Feature      | Type       | Description                                                                                                                          |
-| --- | ------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | ts           | Time stamp | Timestamp of connection between flow identifiers                                                                                     |
-| 2   | src_ip       | String     | Source IP addresses which originate endpoints’ IP addresses                                                                          |
-| 3   | src_port     | Number     | Source ports which originate endpoint’s TCP/UDP ports                                                                                |
-| 4   | dst_ip       | String     | Destination IP addresses which respond to endpoint’s IP addresses                                                                    |
-| 5   | dst_port     | Number     | Destination ports which respond to endpoint’s TCP/UDP ports                                                                          |
-| 6   | proto        | String     | Transport layer protocols of flow connections                                                                                        |
-| 7   | service      | String     | Dynamically detected protocols, such as DNS, HTTP, and SSL                                                                           |
-| 8   | duration     | Number     | The time of the packet connections, estimated by subtracting ‘time of the last packet seen’ and ‘time of the first packet seen’      |
-| 9   | src_bytes    | Number     | Source bytes which are originated from payload bytes of TCP sequence numbers                                                         |
-| 10  | dst_bytes    | Number     | Destination bytes which are responded payload bytes from TCP sequence numbers                                                        |
-| 11  | conn_state   | String     | Various connection states, such as S0 (connection without reply), S1 (connection established), and REJ (connection attempt rejected) |
-| 12  | missed_bytes | Number     | Number of missing bytes in content gaps                                                                                              |
+| ID  | Feature        | Type       | Description                                                                                                                          |
+| --- | -------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | `ts`           | Time stamp | Timestamp of connection between flow identifiers                                                                                     |
+| 2   | `src_ip`       | String     | Source IP addresses which originate endpoints’ IP addresses                                                                          |
+| 3   | `src_port`     | Number     | Source ports which originate endpoint’s TCP/UDP ports                                                                                |
+| 4   | `dst_ip`       | String     | Destination IP addresses which respond to endpoint’s IP addresses                                                                    |
+| 5   | `dst_port`     | Number     | Destination ports which respond to endpoint’s TCP/UDP ports                                                                          |
+| 6   | `proto`        | String     | Transport layer protocols of flow connections                                                                                        |
+| 7   | `service`      | String     | Dynamically detected protocols, such as DNS, HTTP, and SSL                                                                           |
+| 8   | `duration`     | Number     | The time of the packet connections, estimated by subtracting ‘time of the last packet seen’ and ‘time of the first packet seen’      |
+| 9   | `src_bytes`    | Number     | Source bytes which are originated from payload bytes of TCP sequence numbers                                                         |
+| 10  | `dst_bytes`    | Number     | Destination bytes which are responded payload bytes from TCP sequence numbers                                                        |
+| 11  | `conn_state`   | String     | Various connection states, such as S0 (connection without reply), S1 (connection established), and REJ (connection attempt rejected) |
+| 12  | `missed_bytes` | Number     | Number of missing bytes in content gaps                                                                                              |
+
 
 ### Second group - statistical attributes
 - Comprise info about the numbers of flow identifiers and their statistics 
 Table 2: Statistical features
 
-| ID  | Feature      | Type   | Description                                                                                               |
-| --- | ------------ | ------ | --------------------------------------------------------------------------------------------------------- |
-| 13  | src_pkts     | Number | Số lượng gói tin gốc được gửi từ hệ thống nguồn.                                                          |
-| 14  | src_ip_bytes | Number | Tổng số byte IP gốc, bao gồm tổng chiều dài của trường tiêu đề IP (IP header) được gửi từ hệ thống nguồn. |
-| 15  | dst_pkts     | Number | Số lượng gói tin gốc được gửi từ hệ thống đích.                                                           |
-| 16  | dst_ip_bytes | Number | Tổng số byte IP gốc, bao gồm tổng chiều dài của trường tiêu đề IP (IP header) được gửi từ hệ thống đích.  |
-- *src_bytes tính mỗi PAYLOAD, còn src_ip_bytes tính cả PACKET (header + payload)*
+| ID  | Feature        | Type   | Description                                                                                               |
+| --- | -------------- | ------ | --------------------------------------------------------------------------------------------------------- |
+| 13  | `src_pkts`     | Number | Số lượng gói tin gốc được gửi từ hệ thống nguồn.                                                          |
+| 14  | `src_ip_bytes` | Number | Tổng số byte IP gốc, bao gồm tổng chiều dài của trường tiêu đề IP (IP header) được gửi từ hệ thống nguồn. |
+| 15  | `dst_pkts`     | Number | Số lượng gói tin gốc được gửi từ hệ thống đích.                                                           |
+| 16  | `dst_ip_bytes` | Number | Tổng số byte IP gốc, bao gồm tổng chiều dài của trường tiêu đề IP (IP header) được gửi từ hệ thống đích.  |
+- `src_bytes` tính mỗi PAYLOAD, còn `src_ip_bytes` tính cả PACKET (header + payload)
 ### Third group - user-centric
 - Info about high-level services and their interactions with end-users
 Table 3: DNS features
