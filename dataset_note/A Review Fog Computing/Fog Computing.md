@@ -1,0 +1,2 @@
+- Was initally proposed by Cisco to become an extension (comlementing layer) architecture of Cloud sys
+- Handle heterogeneous data sources of IoT wireless access network
