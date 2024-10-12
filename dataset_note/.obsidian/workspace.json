@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f48359a207d0fd71",
+            "id": "56d2dfd2b77832cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-do list.md",
+                "file": "TON_IoT Linux/Linux features.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5212b343435989c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TON_IoT Linux/Linux features.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do list.md",
+                "file": "TON_IoT Linux/Linux features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do list.md",
+                "file": "TON_IoT Linux/Linux features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do list.md"
+                "file": "TON_IoT Linux/Linux features.md"
               }
             }
           }
@@ -148,31 +162,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f48359a207d0fd71",
+  "active": "93de89b0cabac363",
   "lastOpenFiles": [
-    "09444348/09444348.pdf",
-    "TON_IoT Telemetry Dataset/TON_IoT Telemetry Dataset.pdf",
-    "TON_IoT Telemetry Dataset/IoT_IIoT datasets.md",
-    "TON_IoT Telemetry Dataset/09189760.pdf",
-    "TON_IoT Telemetry Dataset",
-    "papers/09189760.pdf",
-    "papers",
+    "TON_IoT Linux/Algorithms on anomaly detection.md",
+    "TON_IoT Linux/Linux features.md",
+    "TON_IoT Windows/IDS.md",
+    "TON_IoT Windows/Window Feature.md",
+    "TON_IoT Linux/TON_IoT Linux.pdf",
+    "TON_IoT Linux/TON_IoT Linux.pdf.crdownload",
+    "TON_IoT Linux",
     "New folder",
+    "TON_Network_dataset/Network features.md",
+    "TON_Network_dataset/Nine attack scenarios.md",
+    "TON_IoT Telemetry Dataset/IoT_IIoT features.md",
+    "TON_IoT Telemetry Dataset/TON_IoT Telemetry Dataset.pdf",
+    "TON_Network_dataset/Understanding the Architecture of the datasets.md",
+    "TON_Network_dataset/Network datasets.md",
     "To-do list.md",
-    "09444348",
+    "TON_IoT Windows/TON_IoT Windows.pdf",
+    "TON_IoT Windows/TON_IoT Windows.pdf.crdownload",
+    "TON_IoT Windows",
+    "09444348/09444348.pdf",
+    "TON_IoT Telemetry Dataset/09189760.pdf",
     "TON_Network_dataset/Giới thiệu Network datasets.md",
     "TON_Network_dataset/Cấu trúc Network datasets.md",
     "dataset_note/Cấu trúc dataset.md",
-    "dataset_note",
     "09189760/IoT_IIoT datasets.md",
     "dataset_note/09189760/09189760.pdf.md",
-    "09189760/09189760.pdf",
-    "dataset_note/09189760",
     "dataset_note/09444348.pdf.md",
-    "TON_Network_dataset/Understanding the Architecture of the datasets.md",
-    "TON_Network_dataset/Network datasets.md",
-    "TON_Network_dataset/Nine attack scenarios.md",
-    "TON_Network_dataset/Network datasets features.md",
     "Why Heterogeneity is important for Iot network.md",
     "Statistical Descriptive Observations.md",
     "Measuring Iot data.md",
@@ -192,9 +209,6 @@
     "image/{0EC711E6-A32E-4BF7-831B-3E17638EFF7E}.png",
     "image/{FF9CE310-78B5-4D35-87F4-BA44BB55F400}.png",
     "Cơ sở lý luận.md",
-    "Cơ sở hình thành TTHCM.md",
-    "Cơ sở thực tiễn.md",
-    "Cơ sở khách quan.md",
-    "Chương 1/Ý nghĩa môn học.md"
+    "Cơ sở hình thành TTHCM.md"
   ]
 }

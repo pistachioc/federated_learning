@@ -1,0 +1,6 @@
+- Can be classified into 2 main categories
+	- Network-based: monitor traffic sent to and from internal network
+	- Host-based: track host computers, relying on `calls` and `logs`
+- Can be also classified into 3 main categories on the basis of the detection method
+	- Signature-based: utilizes pre-defined patterns, unable to detect unknown attack patterns (zero-day exploit)
+	- Anomaly-based: establishes a profile of legitimate usage, then flagging any activities that deviate from the profile as an intrusion
