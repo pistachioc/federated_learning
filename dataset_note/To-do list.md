@@ -1,1 +1,2 @@
 - Research and have a brief acknowledge about the Edge, Cloud, Fog and how the system can send data bla bla bla [TON_IoT Telemetry Dataset](/dataset_note/TON_IoT%20Telemetry%20Dataset/TON_IoT%20Telemetry%20Dataset.pdf)
+- Acknowledge the Linux and Window datasets
