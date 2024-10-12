@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f198fa553a7e3023",
+        "id": "e1febbe521b41a2a",
         "type": "tabs",
         "children": [
           {
-            "id": "56d2dfd2b77832cf",
+            "id": "5031ab17788af92a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TON_IoT Linux/Linux features.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5212b343435989c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TON_IoT Linux/Linux features.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7005c5bfa7d58cb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TON_IoT Windows/IDS.md",
+                "file": "TON_IoT Telemetry/IoT_IIoT features.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TON_IoT Windows/IDS.md",
+                "file": "TON_IoT Telemetry/IoT_IIoT features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TON_IoT Windows/IDS.md",
+                "file": "TON_IoT Telemetry/IoT_IIoT features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TON_IoT Windows/IDS.md"
+                "file": "TON_IoT Telemetry/IoT_IIoT features.md"
               }
             }
           }
@@ -175,13 +148,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7005c5bfa7d58cb0",
+  "active": "5031ab17788af92a",
   "lastOpenFiles": [
-    "To-do list.md",
+    "TON_IoT Telemetry/TON_IoT Telemetry Dataset.pdf",
+    "TON_IoT Telemetry/IoT_IIoT features.md",
+    "TON_IoT Linux/Linux features.md",
+    "TON_IoT Network/Network features.md",
+    "TON_IoT Network/Network datasets.md",
+    "TON_IoT Network/Understanding the Architecture of the datasets.md",
     "TON_IoT Windows/IDS.md",
+    "To-do list.md",
     "TON_IoT Windows/Window Feature.md",
     "A Review Fog Computing/Fog Computing.md",
-    "TON_IoT Linux/Linux features.md",
     "A Review Fog Computing/A Review Fog Computing.pdf",
     "A Review Fog Computing/1906.01055v1.pdf",
     "A Review Fog Computing/1906.01055v1.pdf.crdownload",
@@ -191,12 +169,7 @@
     "TON_IoT Linux/TON_IoT Linux.pdf",
     "TON_IoT Linux/TON_IoT Linux.pdf.crdownload",
     "TON_IoT Linux",
-    "TON_IoT Network/Network features.md",
     "TON_IoT Network/Nine attack scenarios.md",
-    "TON_IoT Telemetry/IoT_IIoT features.md",
-    "TON_IoT Telemetry/TON_IoT Telemetry Dataset.pdf",
-    "TON_IoT Network/Understanding the Architecture of the datasets.md",
-    "TON_IoT Network/Network datasets.md",
     "TON_IoT Windows/TON_IoT Windows.pdf",
     "TON_Network_dataset/Giới thiệu Network datasets.md",
     "TON_Network_dataset/Cấu trúc Network datasets.md",
@@ -221,7 +194,6 @@
     "MOS matlab.md",
     "image/{D09DEFB8-D572-48FC-A768-AF662E5599C5}.png",
     "image/{0EC711E6-A32E-4BF7-831B-3E17638EFF7E}.png",
-    "image/{FF9CE310-78B5-4D35-87F4-BA44BB55F400}.png",
-    "Cơ sở lý luận.md"
+    "image/{FF9CE310-78B5-4D35-87F4-BA44BB55F400}.png"
   ]
 }
