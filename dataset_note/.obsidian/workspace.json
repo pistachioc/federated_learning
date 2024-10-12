@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Review Fog Computing/Fog Computing.md",
+                "file": "TON_IoT Windows/IDS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Review Fog Computing/Fog Computing.md",
+                "file": "TON_IoT Windows/IDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Review Fog Computing/Fog Computing.md",
+                "file": "TON_IoT Windows/IDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Review Fog Computing/Fog Computing.md"
+                "file": "TON_IoT Windows/IDS.md"
               }
             }
           }
@@ -175,18 +175,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93de89b0cabac363",
+  "active": "7005c5bfa7d58cb0",
   "lastOpenFiles": [
-    "TON_IoT Linux/Linux features.md",
+    "To-do list.md",
+    "TON_IoT Windows/IDS.md",
+    "TON_IoT Windows/Window Feature.md",
     "A Review Fog Computing/Fog Computing.md",
+    "TON_IoT Linux/Linux features.md",
     "A Review Fog Computing/A Review Fog Computing.pdf",
     "A Review Fog Computing/1906.01055v1.pdf",
     "A Review Fog Computing/1906.01055v1.pdf.crdownload",
     "A Review Fog Computing",
     "New folder",
     "TON_IoT Linux/Algorithms on anomaly detection.md",
-    "TON_IoT Windows/IDS.md",
-    "TON_IoT Windows/Window Feature.md",
     "TON_IoT Linux/TON_IoT Linux.pdf",
     "TON_IoT Linux/TON_IoT Linux.pdf.crdownload",
     "TON_IoT Linux",
@@ -196,7 +197,6 @@
     "TON_IoT Telemetry/TON_IoT Telemetry Dataset.pdf",
     "TON_IoT Network/Understanding the Architecture of the datasets.md",
     "TON_IoT Network/Network datasets.md",
-    "To-do list.md",
     "TON_IoT Windows/TON_IoT Windows.pdf",
     "TON_Network_dataset/Giới thiệu Network datasets.md",
     "TON_Network_dataset/Cấu trúc Network datasets.md",
