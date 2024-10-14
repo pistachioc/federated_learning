@@ -76,17 +76,17 @@ Table 5: HTTP features
 - Include any abnormal info happened while transmitting packets listed in 
 Table 6: Violation features
 
-| ID  | Feature        | Type    | Description                                                                                  |
-|-----|----------------|---------|----------------------------------------------------------------------------------------------|
-| 42  | `weird_name`   | String  | Tên của các bất thường/vi phạm liên quan đến các giao thức đã xảy ra.                     |
-| 43  | `weird_addl`   | String  | Thông tin bổ sung liên quan đến các bất thường/vi phạm giao thức.                          |
-| 44  | `weird_notice` | Boolean | Cờ chỉ ra liệu vi phạm/bất thường đã được chuyển thành thông báo hay chưa.                |
+| ID  | Feature        | Type    | Description                                                                |
+| --- | -------------- | ------- | -------------------------------------------------------------------------- |
+| 42  | `weird_name`   | String  | Tên của các bất thường/vi phạm liên quan đến các giao thức đã xảy ra.      |
+| 43  | `weird_addl`   | String  | Thông tin bổ sung liên quan đến các bất thường/vi phạm giao thức.          |
+| 44  | `weird_notice` | Boolean | Cờ chỉ ra liệu vi phạm/bất thường đã được chuyển thành thông báo hay chưa. |
 Table 7: Labeling atributes
 
-| ID  | Feature | Type    | Description                                                                                       |
-|-----|---------|---------|---------------------------------------------------------------------------------------------------|
-| 45  | `label` | Number  | Ghi nhãn các bản ghi bình thường và tấn công, trong đó 0 chỉ định bình thường và 1 chỉ định tấn công. |
-| 46  | `type`  | String  | Ghi nhãn các loại tấn công, chẳng hạn như bình thường, DoS, DDoS và tấn công backdoor, cùng với các bản ghi bình thường. |
+| ID  | Feature | Type   | Description                                                                                                              |
+| --- | ------- | ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 45  | `label` | Number | Ghi nhãn các bản ghi bình thường và tấn công, trong đó 0 chỉ định bình thường và 1 chỉ định tấn công.                    |
+| 46  | `type`  | String | Ghi nhãn các loại tấn công, chẳng hạn như bình thường, DoS, DDoS và tấn công backdoor, cùng với các bản ghi bình thường. |
 Table 8: Numbers of records
 
 |               | Total data records | Train_Test records |

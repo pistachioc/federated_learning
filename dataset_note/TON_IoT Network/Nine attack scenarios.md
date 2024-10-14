@@ -11,8 +11,8 @@
 - Prevents normal users to access sys or services by encrypting them until they pay a ransom
 - Executed by Metasploit framework named *eternalblue*
 ### 5. Backdoor attack
-- Gain high-lecel user access and keep persistence to the hacked sys
-- Executed bby metasploit framework *bash script* of command `run persistence -h`
+- Gain high-level user access and keep persistence to the hacked sys
+- Executed by metasploit framework *bash script* of command `run persistence -h`
 ### 6. Injection attack
 - Injects or inserts any fake data from clients to applications
 - Using *bash script* `sqlmap-u http://192.168.1.195/dvwa/ vulnerabilities/sqli/?id=53`

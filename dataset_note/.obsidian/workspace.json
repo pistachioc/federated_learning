@@ -1,21 +1,20 @@
 {
   "main": {
-    "id": "c6081508aa62b278",
+    "id": "e3cb446fe0599a1e",
     "type": "split",
     "children": [
       {
-        "id": "e1febbe521b41a2a",
+        "id": "a2eac0a485996515",
         "type": "tabs",
         "children": [
           {
-            "id": "5031ab17788af92a",
+            "id": "abacae41c997b908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TON_IoT Telemetry/IoT_IIoT features.md",
+                "file": "TON_IoT Windows/Window Feature.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -26,25 +25,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "452109070bebb3f5",
+    "id": "2182b93773087e9d",
     "type": "split",
     "children": [
       {
-        "id": "3d49d8fdc3ff45b7",
+        "id": "2f4a7e0dc348cc22",
         "type": "tabs",
         "children": [
           {
-            "id": "93de89b0cabac363",
+            "id": "56f56cbdb57fd63d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "ee70d6ec0bce6630",
+            "id": "2002e14a5569864a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +58,7 @@
             }
           },
           {
-            "id": "108a075c60f6a5ed",
+            "id": "3f0594de5e7b347c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "66857718a4bee31a",
+    "id": "ccb82e3b545006c8",
     "type": "split",
     "children": [
       {
-        "id": "168dd2f096d4c2cc",
+        "id": "1b19dcdfcbfcf033",
         "type": "tabs",
         "children": [
           {
-            "id": "820c0e13b79f96ff",
+            "id": "08f87677b92a9ddb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TON_IoT Telemetry/IoT_IIoT features.md",
+                "file": "TON_IoT Windows/Window Feature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +97,19 @@
             }
           },
           {
-            "id": "d83499c3bcea9f76",
+            "id": "36b5b538dda34000",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TON_IoT Telemetry/IoT_IIoT features.md",
+                "file": "TON_IoT Windows/Window Feature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "909760d513ad080f",
+            "id": "27d66761d93cd2a0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,12 +120,12 @@
             }
           },
           {
-            "id": "dcc6bd000bfa405f",
+            "id": "ecfdc12d40dcf698",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TON_IoT Telemetry/IoT_IIoT features.md"
+                "file": "TON_IoT Windows/Window Feature.md"
               }
             }
           }
@@ -144,56 +143,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "5031ab17788af92a",
+  "active": "abacae41c997b908",
   "lastOpenFiles": [
-    "TON_IoT Telemetry/TON_IoT Telemetry Dataset.pdf",
-    "TON_IoT Telemetry/IoT_IIoT features.md",
-    "TON_IoT Linux/Linux features.md",
-    "TON_IoT Network/Network features.md",
-    "TON_IoT Network/Network datasets.md",
-    "TON_IoT Network/Understanding the Architecture of the datasets.md",
-    "TON_IoT Windows/IDS.md",
-    "To-do list.md",
-    "TON_IoT Windows/Window Feature.md",
-    "A Review Fog Computing/Fog Computing.md",
-    "A Review Fog Computing/A Review Fog Computing.pdf",
-    "A Review Fog Computing/1906.01055v1.pdf",
-    "A Review Fog Computing/1906.01055v1.pdf.crdownload",
-    "A Review Fog Computing",
-    "New folder",
-    "TON_IoT Linux/Algorithms on anomaly detection.md",
-    "TON_IoT Linux/TON_IoT Linux.pdf",
-    "TON_IoT Linux/TON_IoT Linux.pdf.crdownload",
-    "TON_IoT Linux",
-    "TON_IoT Network/Nine attack scenarios.md",
-    "TON_IoT Windows/TON_IoT Windows.pdf",
-    "TON_Network_dataset/Giới thiệu Network datasets.md",
-    "TON_Network_dataset/Cấu trúc Network datasets.md",
-    "dataset_note/Cấu trúc dataset.md",
-    "09189760/IoT_IIoT datasets.md",
-    "dataset_note/09189760/09189760.pdf.md",
-    "dataset_note/09444348.pdf.md",
-    "Why Heterogeneity is important for Iot network.md",
-    "Statistical Descriptive Observations.md",
-    "Measuring Iot data.md",
-    "Benign and Attack Scenarios and Agents.md",
-    "img/Configured Testbed of TON_IoT datasets.png",
-    "dataset_note/papers/TON_Network_dataset.pdf.md",
-    "img/proposed dynamic architecture.png",
-    "image/Pasted image 20240924215202.png",
-    "Common source Resistive load.md",
-    "image/{40F30FE6-D5EC-493F-9597-F2CD65D194BC}.png",
-    "image/{2DA89EB2-EFDF-48C7-A4AB-22EC0A749201}.png",
-    "MOS.md",
-    "image/Pasted image 20240922173436.png",
-    "Pasted image 20240922173326.png",
-    "MOS matlab.md",
-    "image/{D09DEFB8-D572-48FC-A768-AF662E5599C5}.png",
-    "image/{0EC711E6-A32E-4BF7-831B-3E17638EFF7E}.png",
-    "image/{FF9CE310-78B5-4D35-87F4-BA44BB55F400}.png"
+    "TON_IoT Windows/TON_IoT Windows.pdf"
   ]
 }
